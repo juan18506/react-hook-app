@@ -4,14 +4,13 @@ import { AboutPage } from "./AboutPage";
 import { LoginPage } from "./LoginPage";
 import { Navigate } from "react-router-dom";
 import { Link } from "react-router-dom";
+import { Navbar } from "./Navbar";
 
 export const MainApp = () => {
   return (
     <>
       <h1>MainApp</h1>
-      <Link to="/react-hook-app/">Home</Link>
-      <Link to="/react-hook-app/about">About</Link>
-      <Link to="/react-hook-app/login">Login</Link>
+      <Navbar />
       <hr />
 
 
