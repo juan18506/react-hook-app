@@ -20,6 +20,13 @@ It is couple of exercises and mini apps like a todo app using a lot of react hoo
 - useTodos ( custom hook )
 - useReducer - reducer theory
 - local CRUD
+- Context
+- Provider
+- useContext
+- React Router
+- Links y NavLinks
+- CreateContext
+- SPA ( Single Page Application )
 
 ## Author 
 
