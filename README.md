@@ -18,6 +18,8 @@ It is couple of exercises and mini apps like a todo app using a lot of react hoo
 - useMemo and when to use
 - useCallback and when to use
 - useTodos ( custom hook )
+- useReducer - reducer theory
+- local CRUD
 
 ## Author 
 
