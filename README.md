@@ -1,6 +1,6 @@
 # React hook app
 
-It is couple of exercises and mini apps like a todo app using a lot of react hooks and custom hooks.
+It is couple of exercises and mini apps made using a lot of react hooks and custom hooks.
 
 [![Live Site](https://img.shields.io/static/v1?label=&message=Live%20Site&color=167200&style=for-the-badge)](https://juan18506.github.io/react-hook-app/)
 [![Github Repository](https://img.shields.io/static/v1?label=&message=Github%20Repository&color=000000&style=for-the-badge&logo=github&logoColor=white)](https://github.com/juan18506/react-hook-app/)
