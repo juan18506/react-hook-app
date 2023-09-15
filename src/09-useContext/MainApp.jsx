@@ -15,11 +15,11 @@ export const MainApp = () => {
 
 
       <Routes>
-        <Route path="/react-hook-app/" element={ <HomePage /> } />
-        <Route path="/react-hook-app/about" element={ <AboutPage /> } />
-        <Route path="/react-hook-app/login" element={ <LoginPage /> } />
+        <Route path="/" element={ <HomePage /> } />
+        <Route path="/about" element={ <AboutPage /> } />
+        <Route path="/login" element={ <LoginPage /> } />
 
-        <Route path="/react-hook-app/*" element={ <Navigate to="/react-hook-app/about" /> } />
+        <Route path="/*" element={ <Navigate to="/about" /> } />
       </Routes>
     </UserProvider>
   )

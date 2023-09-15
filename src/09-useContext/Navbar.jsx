@@ -13,7 +13,7 @@ export const Navbar = () => {
             <li className="nav-item">
               <NavLink
                 className={({ isActive }) => `nav-link ${ isActive ? 'active': '' }`}
-                to="/react-hook-app/"
+                to="/"
               >
                 Home
               </NavLink>
@@ -21,7 +21,7 @@ export const Navbar = () => {
             <li className="nav-item">
               <NavLink
                 className={({ isActive }) => `nav-link ${ isActive ? 'active': '' }`}
-                to="/react-hook-app/about"
+                to="/about"
               >
                 About
               </NavLink>
@@ -29,7 +29,7 @@ export const Navbar = () => {
             <li className="nav-item">
               <NavLink
                 className={({ isActive }) => `nav-link ${ isActive ? 'active': '' }`}
-                to="/react-hook-app/login"
+                to="/login"
               >
                 Login
               </NavLink>

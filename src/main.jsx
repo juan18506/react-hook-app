@@ -22,7 +22,7 @@ import './index.css';
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <BrowserRouter>
+  <BrowserRouter basename='/react-hook-app/'>
     <React.StrictMode>
       <MainApp />
     </React.StrictMode>
