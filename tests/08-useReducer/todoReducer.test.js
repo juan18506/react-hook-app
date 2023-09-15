@@ -1,4 +1,4 @@
-import { describe, test, it, expect, vitest } from 'vitest';
+import { describe, it, expect } from 'vitest';
 import { todoReducer } from '../../src/08-useReducer/todoReducer';
 
 describe('Tests in todoReducer', () => {
