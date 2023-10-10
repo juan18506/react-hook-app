@@ -1,6 +1,6 @@
 # React hook app
 
-It is set of exercises and mini apps made with a lot of react hooks and custom hooks.
+It's a set of exercises and mini apps created using various React hooks, including custom hooks.
 
 [![Live Site](https://img.shields.io/static/v1?label=&message=Live%20Site&color=167200&style=for-the-badge)](https://juan18506.github.io/react-hook-app/)
 [![Github Repository](https://img.shields.io/static/v1?label=&message=Github%20Repository&color=000000&style=for-the-badge&logo=github&logoColor=white)](https://github.com/juan18506/react-hook-app/)
@@ -52,11 +52,11 @@ pnpm install
 When installation is complete, run :
 
 ```
-pnpm dev
+pnpm run dev
 ```
 
 To run tests:
 
 ```
-pnpm test
+pnpm run test
 ```
